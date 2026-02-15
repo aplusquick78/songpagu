@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>송파구 퀵서비스 | 24시 에이플러스 송파퀵</title>
+  <link>https://songpagu.8222quick.com/</link>
+  <description>송파구 전지역 24시 실시간 배차, 잠실역·가락시장·문정법조타운 초고속 신속한 배송</description>
+  <language>ko-KR</language>
+  <pubDate>Sun, 15 Feb 2026 11:30:00 +0900</pubDate>
+  <lastBuildDate>Sun, 15 Feb 2026 11:30:00 +0900</lastBuildDate>
+  <atom:link href="https://songpagu.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>송파구 퀵서비스 24시 신속한 배송 안내</title>
+    <link>https://songpagu.8222quick.com/index.html</link>
+    <description>잠실, 가락, 문정, 위례 등 송파구 전역 신속한 배송을 보장합니다. 오토바이/다마스/라보 상시 대기.</description>
+    <category>퀵서비스</category>
+    <pubDate>Sun, 15 Feb 2026 11:30:00 +0900</pubDate>
+    <guid>https://songpagu.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>송파구 퀵서비스 요금 및 배차 안내</title>
+    <link>https://songpagu.8222quick.com/money.html</link>
+    <description>송파구 지역별 상세 퀵서비스 요금표와 차종별 운송 단가 안내입니다.</description>
+    <category>요금안내</category>
+    <pubDate>Sun, 15 Feb 2026 11:30:00 +0900</pubDate>
+    <guid>https://songpagu.8222quick.com/money.html</guid>
+  </item>
+</channel>
+</rss>
